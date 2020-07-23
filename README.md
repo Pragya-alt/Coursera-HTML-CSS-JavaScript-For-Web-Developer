@@ -9,3 +9,5 @@ Links for the  webpages are:
 2.  Assignment 3:  https://pragya-alt.github.io/Coursera-HTML-CSS-JavaScript-For-Web-Developer/Assignment%203/Assignment%203.html
 
 3.  Assignment 4:  https://pragya-alt.github.io/Coursera-HTML-CSS-JavaScript-For-Web-Developer/Assignment%204/Assignment%204.html
+
+4.  Assignment 5:  https://pragya-alt.github.io/Coursera-HTML-CSS-JavaScript-For-Web-Developer/Assignment5/index.html
